@@ -1,4 +1,4 @@
-# Claude Cowork Guide
+# Claude Cowork Guide for LLM
 
 🌐 **Languages**: [English](README.md) | [Français](README.fr.md)
 
